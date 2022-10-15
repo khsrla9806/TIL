@@ -35,7 +35,7 @@ HashMap<String, Integer> map = new HashMap<String, Integer>();
 
     : 삽입 순서에 따라 정렬합니다.
 
-4. `HasgTable`
+4. `HashTable`
 
     : key와 value에 null을 넣을 수 없습니다.
 <br><br>
