@@ -26,36 +26,53 @@ HashMap<String, Integer> map = new HashMap<String, Integer>();
 3.1 Map 안에 값 넣기
 
     `Map.put(key, value);`
+<br>
 
 3.2 Map 안의 값 가져오기 → key로 value를 출력
 
     `Map.get(key);`
+<br>
 
 3.3 Map 크기 확인하기 (key의 개수)
 
     `Map.size();`
+<br>
 
 3.4 Map 안의 내용 변경하기 → `Map.put()` 으로 해도 됨.
 
     `Map.replace(key, value);`
+<br>
 
 3.5 Map 안에 특정 key, value가 있는지 확인하기
 
     `Map.containsKey(key);`
 
     `Map.containsValue(value);`
+<br>
 
 3.6 Map의 크기가 0인지 확인하기
 
     `Map.isEmpty();`
+<br>
 
 3.7 Map 안의 내용을 삭제하기
 
     `Map.remove(key);`
+<br>
 
 3.8 Key가 존재하면 value를 얻어내고, 없다면 default를 호출
 
     `Map.getOrDefault(key, default);`
+    
+```java
+HashMap<String, Integer> map = new HashMap<>();
+
+System.out.println(map.getOrDefault("Me", 0));
+
+// 출력 0
+```
+위 코드를 보면 "Me"라는 키 값이 없기 때문에 0이라는 Default 값이 출력되는 것을 확인할 수 있습니다. 
+<br>
 
 3.9 Key가 없거나 value가 null일 때만 삽입하기
 
