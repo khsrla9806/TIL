@@ -87,3 +87,45 @@ HashMap<String, Integer> map = new HashMap<String, Integer>() {{
     put("조나단", 25);
 }};
 ```
+<br>
+
+4.2 Map에서 Comparator를 사용하여 내림차순으로 정렬하기
+```java
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args) {
+        HashMap<String, Integer> map = new HashMap<>();
+
+        map.put("key1", 1);
+        map.put("key2", 2);
+        map.put("key3", 3);
+
+        if(map.containsKey("key1") && map.containsValue(1)) {
+            System.out.println("true");
+        }
+
+        List<String> keyList = new ArrayList<>(map.keySet());
+
+        // key를 가지고 내림차순으로 정렬. 비교는 value로 한다.
+        Collections.sort(keyList, new Comparator<String>() {
+            public int compare(String str1, String str2) {
+                int value1 = map.get(str1);
+                int value2 = map.get(str2);
+
+                return Integer.compare(value2, value1);
+            }
+        });
+
+        for(String s : keyList) {
+            System.out.println(s + " = " + map.get(s));
+        }
+    }
+}
+
+// 출력
+// true
+// key3 = 3
+// key2 = 2
+// key1 = 1
+```
