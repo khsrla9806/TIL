@@ -16,6 +16,7 @@
   * [Set](https://github.com/khsrla9806/TIL/blob/main/JAVA/Set.md)
   * [정규표현식](https://github.com/khsrla9806/TIL/blob/main/JAVA/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D.md)
   * [자바코드 네이밍 규칙](https://github.com/khsrla9806/TIL/blob/main/JAVA/JavaCodeNaming.md)
+  * [자바 테스트 코드 작성](https://github.com/khsrla9806/TIL/blob/main/JAVA/JaveTestCode.md)
 <br>
 
 ## Algorithm
