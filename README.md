@@ -33,3 +33,8 @@
 
 ## 코딩테스트
  * [프로그래머스 코딩 테스트 연습 > 해시 > 전화번호 목록](https://github.com/khsrla9806/TIL/blob/main/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%AA%A9%EB%A1%9D.md)
+ 
+<br>
+
+## Github
+ * [깃허브 커밋 메시지 컨벤션](https://github.com/khsrla9806/TIL/blob/main/Github/CommitMessageConvention.md)
