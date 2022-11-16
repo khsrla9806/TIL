@@ -17,6 +17,7 @@
   * [자바코드 네이밍 규칙](https://github.com/khsrla9806/TIL/blob/main/JAVA/JavaCodeNaming.md)
   * [자바 테스트 코드 작성](https://github.com/khsrla9806/TIL/blob/main/JAVA/JaveTestCode.md)
   * [스트림 - 특징과 생성 방법](https://github.com/khsrla9806/TIL/blob/main/JAVA/Stream_1.md)
+  * [스트림 - 중간연산과 최종연산](https://github.com/khsrla9806/TIL/blob/main/JAVA/Stream_2.md)
 <br>
 
 ## Algorithm
