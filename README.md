@@ -39,3 +39,8 @@
 
 ## Github
  * [깃허브 커밋 메시지 컨벤션](https://github.com/khsrla9806/TIL/blob/main/Github/CommitMessageConvention.md)
+
+<br>
+ 
+## Database
+ * [mySQL 사용하기 - 접근, 계정생성/삭제, 권한부여](https://github.com/khsrla9806/TIL/blob/main/Database/mysql_setting.md)
