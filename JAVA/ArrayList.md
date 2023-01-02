@@ -114,3 +114,10 @@ ArrayList를 Iterator 타입으로 만들 수 있습니다.
 `indexOf(Object)`
 
 해당 값을 가지는 데이터의 index를 찾아서 반환하고, 만약 데이터가 없다면 -1을 출력합니다.
+
+### 3.8 ArrayList와 LinkedList 속도 비교
+<img width="813" alt="image" src="https://user-images.githubusercontent.com/70641477/210207395-62b782f9-4e7f-4dfd-a68f-8b5e8a6b9f62.png">
+데이터의 조회가 빈번하게 발생한다면 ArrayList를 사용하는 것이 효율적이고, 데이터의 추가/삭제가 빈번하게 발생한다면 LinkedList를 사용하는 것이 효율적이다.
+
+
+
