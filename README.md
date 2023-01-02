@@ -29,7 +29,7 @@
 
 ## 자료구조
   * [자주사용되는 자료구조](https://github.com/khsrla9806/TIL/blob/main/자료구조/자주사용되는자료구조.md)
-  * [스택(Stack)과 큐(Queue)](https://github.com/khsrla9806/TIL/tree/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
+  * [스택(Stack)과 큐(Queue)](https://github.com/khsrla9806/TIL/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/StackAndQueue.md)
 
 <br>
 
