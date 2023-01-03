@@ -23,6 +23,7 @@
 ## Algorithm
   * [플로이드 와샬 알고리즘](https://github.com/khsrla9806/TIL/blob/main/Algorithm/%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%99%80%EC%83%AC.md)
   * [다익스트라 알고리즘](https://github.com/khsrla9806/TIL/blob/main/Algorithm/다익스트라.md)
+  * [DFS(깊이우선탐색)와 BFS(너비우선탐색)](https://velog.io/@khsrla9806/Algorithm-DFS%EC%99%80-BFS-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
   
   
 <br>
