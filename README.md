@@ -38,6 +38,7 @@
  * [프로그래머스 코딩테스트 연습 > 연습문제 > 크기가 작은 부분 문자열](https://github.com/khsrla9806/TIL/blob/main/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%ED%81%AC%EA%B8%B0%EA%B0%80%20%EC%9E%91%EC%9D%80%20%EB%B6%80%EB%B6%84%20%EB%AC%B8%EC%9E%90%EC%97%B4.md)
  * [프로그래머스 코딩테스트 연습 > 코딩테스트 입문 > 옹알이(1)](https://github.com/khsrla9806/TIL/blob/main/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EC%98%B9%EC%95%8C%EC%9D%B4(1).md)
  * [코딩테스트 연습 > 스택/큐 > 같은 숫자는 싫어](https://github.com/khsrla9806/TIL/blob/main/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EA%B0%99%EC%9D%80%20%EC%88%AB%EC%9E%90%EB%8A%94%20%EC%8B%AB%EC%96%B4.md)
+ * [코딩테스트 연습 > 정렬 > k번째 수](https://github.com/khsrla9806/TIL/blob/main/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/k%EB%B2%88%EC%A7%B8%20%EC%88%98.md)
  
 <br>
 
