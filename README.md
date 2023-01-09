@@ -43,7 +43,7 @@
  * [코딩테스트 연습 > 깊이/너비 우선 탐색(DFS/BFS) > 타겟 넘버](https://github.com/khsrla9806/TIL/blob/main/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.md)
  * [코딩테스트 연습 > 힙(Heap) > 더 맵게](https://github.com/khsrla9806/TIL/blob/main/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EB%8D%94%20%EB%A7%B5%EA%B2%8C.md)
  * [코딩테스트 연습 > 2023 KAKAO BLIND RECRUITMENT > 이모티콘 할인행사](https://github.com/khsrla9806/TIL/blob/main/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98%20%ED%95%A0%EC%9D%B8%ED%96%89%EC%82%AC.md)
- * [코딩테스트 연습 > 완전탐색 > 모음사전](https://github.com/khsrla9806/TIL/tree/main/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8)
+ * [코딩테스트 연습 > 완전탐색 > 모음사전](https://github.com/khsrla9806/TIL/blob/main/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EB%AA%A8%EC%9D%8C%EC%82%AC%EC%A0%84.md)
  
 <br>
 
