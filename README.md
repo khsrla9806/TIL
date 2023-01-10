@@ -31,6 +31,11 @@
 ## 자료구조
   * [자주사용되는 자료구조](https://github.com/khsrla9806/TIL/blob/main/자료구조/자주사용되는자료구조.md)
   * [스택(Stack)과 큐(Queue)](https://github.com/khsrla9806/TIL/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/StackAndQueue.md)
+  
+<br>
+
+## 운영체제
+  * [Round Robin 스케쥴러 관련 문제 (퀴즈 5)](https://github.com/khsrla9806/TIL/blob/main/OperatingSystem/Round%20Robin%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%9F%AC%20%EB%AC%B8%EC%A0%9C.md)
 
 <br>
 
