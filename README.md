@@ -49,6 +49,7 @@
  * [코딩테스트 연습 > 힙(Heap) > 더 맵게](https://github.com/khsrla9806/TIL/blob/main/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EB%8D%94%20%EB%A7%B5%EA%B2%8C.md)
  * [코딩테스트 연습 > 2023 KAKAO BLIND RECRUITMENT > 이모티콘 할인행사](https://github.com/khsrla9806/TIL/blob/main/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98%20%ED%95%A0%EC%9D%B8%ED%96%89%EC%82%AC.md)
  * [코딩테스트 연습 > 완전탐색 > 모음사전](https://github.com/khsrla9806/TIL/blob/main/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EB%AA%A8%EC%9D%8C%EC%82%AC%EC%A0%84.md)
+ * [코딩테스트 연습 > 스택/큐 > 올바른 괄호](https://github.com/khsrla9806/TIL/blob/main/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8.md)
  
 <br>
 
