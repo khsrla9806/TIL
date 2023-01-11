@@ -35,6 +35,7 @@
 <br>
 
 ## 운영체제
+  * [(1) 운영체제란 무엇인가?](https://github.com/khsrla9806/TIL/blob/main/OperatingSystem/1_%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EB%9E%80%3F.md)
   * [Round Robin 스케쥴러 관련 문제 (퀴즈 5)](https://github.com/khsrla9806/TIL/blob/main/OperatingSystem/Round%20Robin%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%9F%AC%20%EB%AC%B8%EC%A0%9C.md)
 
 <br>
