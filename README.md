@@ -56,6 +56,8 @@
  * [코딩테스트 연습 > 연습문제 > 2 x n 타일링](https://github.com/khsrla9806/TIL/blob/main/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/2xn%20%ED%83%80%EC%9D%BC%EB%A7%81.md)
  * [코딩테스트 연습 > 탐욕법(Greedy) > 체육복](https://github.com/khsrla9806/TIL/blob/main/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EC%B2%B4%EC%9C%A1%EB%B3%B5.md)
  * [코딩테스트 연습 > 탐욕법(Greedy) > 큰 수 만들기](https://github.com/khsrla9806/TIL/blob/main/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
+ * [코딩테스트 연습 > 완전탐색 > 최소직사각형](https://github.com/khsrla9806/TIL/blob/main/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.md)
+ * [코딩테스트 연습 > 완전탐색 > 모의고사](https://github.com/khsrla9806/TIL/blob/main/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.md)
  
 <br>
 
