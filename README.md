@@ -60,6 +60,7 @@
  * [코딩테스트 연습 > 완전탐색 > 모의고사](https://github.com/khsrla9806/TIL/blob/main/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.md)
  * [코딩테스트 연습 > 2018 KAKAO BLIND RECRUITMENT > [3차] 압축](https://github.com/khsrla9806/TIL/blob/main/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%5B3%EC%B0%A8%5D%20%EC%95%95%EC%B6%95.md)
  * [코딩테스트 연습 > Summer/Winter Coding(~2018) > 영어 끝말잇기](https://github.com/khsrla9806/TIL/blob/main/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.md)
+ * [소프티어 > [인증평가(5차) 기출] 업무 처리](https://hoonsb.tistory.com/)
  
 <br>
 
