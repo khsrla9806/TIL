@@ -23,6 +23,7 @@
 ## Spring
  ### 토비의 스프링
   * [1장 - 오브젝트와 의존관계](https://hoonsb.tistory.com/18)
+  * [2장 - 테스트](https://hoonsb.tistory.com/20)
   
 <br>
 
