@@ -69,6 +69,7 @@
  * [코딩테스트 연습 > Summer/Winter Coding(~2018) > 영어 끝말잇기](https://github.com/khsrla9806/TIL/blob/main/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.md)
  * [소프티어 > [인증평가(5차) 기출] 업무 처리](https://hoonsb.tistory.com/15)
  * [코딩테스트 연습 > 연습문제 > 호텔 대실](https://github.com/khsrla9806/TIL/blob/main/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md)
+ * [코딩테스트 연습 > 연습문제 > 무인도 여행](https://github.com/khsrla9806/TIL/blob/main/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EB%AC%B4%EC%9D%B8%EB%8F%84%20%EC%97%AC%ED%96%89.md)
  
 <br>
 
